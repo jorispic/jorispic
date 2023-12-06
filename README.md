@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jorispic, I'm a young engineer since 2021
 - 👀 I’m interested in : Science, Guitar, Producing Music, Fitness, Programming, Formula 1, Learning new things, ...
-- 🌱 I’m currently learning different programming languages like C, Python, JavaScript and improving my Computer Science knowledge because working
-as a mechanical engineer doesn't fulfil me and I want to become a Software Engineer.  
+- 🌱 I’m currently learning different programming languages like C++, Python, JavaScript and improving my Computer Science knowledge because working as a mechanical engineer doesn't fulfil me and I want to become a Software Engineer.  
 
 - 📫 How to reach me:
 - mail :      jorispic@gmail.com
